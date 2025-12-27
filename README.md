@@ -99,8 +99,7 @@ Optional:
 ## License
 
 
--  Creative Common V1 (attribution required)
-
+-  CC0 1.0 Universal
 ---
 
 ## Ownership and intent
